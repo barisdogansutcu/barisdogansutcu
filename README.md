@@ -14,13 +14,13 @@
 
 | Blog Yazılarım | Oku ve yorumla :smiling_face_with_three_hearts: | :eyes:
 | ------ | ------ | ------ |
-| VUE JS Nedir? | <a href="https://barisdogansutcu.com/vue-js-nedir-nerelerde-kullanilir/">Oku</a> | 644
-| Flutter Nedir? | <a href="https://barisdogansutcu.com/flutter-nedir/">Oku</a> | 570
-| NODE JS Mantığı | <a href="https://barisdogansutcu.com/node-js-calisma-mantigi-nasildir/">Oku</a> | 518
-| SASS | <a href="https://barisdogansutcu.com/sass-kullanmanin-csse-gore-faydalari-nelerdir">Oku</a> | 11
-| CSS Referans | <a href="https://barisdogansutcu.com/css-referans/">Oku</a> | 190 
-| Frontend Developer Özellikleri | <a href="https://barisdogansutcu.com/frontend-developer-ve-ozellikleri/">Oku</a> | 580
-| Backend Developer Özellikleri | <a href="https://barisdogansutcu.com/frontend-developer-ve-ozellikleri/">Oku</a> | 364
+| VUE JS Nedir? | <a href="https://barisdogansutcu.com/vue-js-nedir-nerelerde-kullanilir/">Oku</a> | 928
+| Flutter Nedir? | <a href="https://barisdogansutcu.com/flutter-nedir/">Oku</a> | 755
+| NODE JS Mantığı | <a href="https://barisdogansutcu.com/node-js-calisma-mantigi-nasildir/">Oku</a> | 711
+| SASS | <a href="https://barisdogansutcu.com/sass-kullanmanin-csse-gore-faydalari-nelerdir">Oku</a> | 162
+| CSS Referans | <a href="https://barisdogansutcu.com/css-referans/">Oku</a> | 349
+| Frontend Developer Özellikleri | <a href="https://barisdogansutcu.com/frontend-developer-ve-ozellikleri/">Oku</a> | 649
+| Backend Developer Özellikleri | <a href="https://barisdogansutcu.com/frontend-developer-ve-ozellikleri/">Oku</a> | 529
 | Daha fazlası... | <a href="https://barisdogansutcu.com/blog/">:hearts:</a> | :infinity:
 
 
